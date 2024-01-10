@@ -1,0 +1,1 @@
+# ASP.NET-Core-ile-QR-Kodlu-Sipari-Yonetim-Sistemi
